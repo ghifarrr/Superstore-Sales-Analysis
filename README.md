@@ -19,4 +19,4 @@ The dataset contains sales orders, returned sales, and manager name/region data 
 - Horizontal bar chart to show total sales by Manager and Region, and to show top 5 current year sales by Customer
 - Treemaps to show current year sales by Segments.
 
-![alt text](https://github.com/ghifarrr/Superstore-Sales-Analysis/blob/main/Ssuperstore%20Sales%20Dashboard.png?raw=true?raw=true)
+![alt text](https://github.com/ghifarrr/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Dashboard.png?raw=true?raw=true)
