@@ -11,8 +11,6 @@ This project based on Business Intelligence using Tableau. The primary objective
 The dataset I used for this analysis is the Superstore dataset. The Superstore dataset provides the opportunity to conduct in-depth or non-in-depth analysis of sales performance, allowing businesses to gain valuable insights into their sales performance, identify areas of strength and weakness, and make data-driven decisions to improve their sales processes. 
 The dataset contains sales orders, returned sales, and manager name/region data of Superstore for the period Jan-2014 to Dec-2017.
 
-![alt text](https://github.com/ghifarrr/Superstore-Sales-Analysis/blob/main/Ssuperstore%20Sales%20Dashboard.png?raw=true?raw=true)
-
 ## Visualization
 - Line Chart to show past year and current year sales, profit, and quantity of products 
 - KPI Index for sales, profit, and quantity of products
@@ -21,3 +19,4 @@ The dataset contains sales orders, returned sales, and manager name/region data 
 - Horizontal bar chart to show total sales by Manager and Region, and to show top 5 current year sales by Customer
 - Treemaps to show current year sales by Segments.
 
+![alt text](https://github.com/ghifarrr/Superstore-Sales-Analysis/blob/main/Ssuperstore%20Sales%20Dashboard.png?raw=true?raw=true)
